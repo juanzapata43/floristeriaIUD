@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FloristeriaIUDApplication<floristeriaIUD>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "edu.iud.floristeriaIUD.FloristeriaIUDApplication",
+            "projectName": "floristeriaIUD",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
